@@ -1,10 +1,6 @@
 #!/bin/bash
 
 # ShellPhish v2.5-Mod
-# Moded by @AbirHasan2005
-
-# Join Telegram Group for help: http://t.me/linux_repo
-
 
 trap 'printf "\n";stop;exit 1' 2
 
