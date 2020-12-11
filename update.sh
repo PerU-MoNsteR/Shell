@@ -1,6 +1,6 @@
 #!/bin/bash
 # Update Script
-# Script created by @AbirHasan2005
+# Script created by @peru_monster
 
 
 dependencies() {
